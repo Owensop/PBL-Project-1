@@ -1,2 +1,2 @@
-# PBL-Project-1
-for PBL project-1
+# Devops PBL-Project-1
+This is project-1 Web Stack Implemetation(LAMP STACK) in AWS
